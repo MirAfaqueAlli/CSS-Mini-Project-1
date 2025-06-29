@@ -2,8 +2,6 @@
 
 This is my first HTML/CSS mini-project—a responsive sidebar navigation menu with toggle functionality. Built to practice basic HTML and CSS layout and styling skills.
 
-![screenshot](photo.jpg)
-
 ---
 
 ## ✨ Features
@@ -72,20 +70,12 @@ Copy code
 
 ---
 
-## 📸 Screenshots
-
-*(Add more screenshots if you want!)*
-
-![screenshot](photo.jpg)
-
----
-
 ## ❤️ Author
 
 **Mir Afaque Alli**
 
 - [GitHub](https://github.com/MirAfaqueAlli)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(update this if you want)*
+- [LinkedIn](https://www.linkedin.com/in/mir-afaque-alli) 
 
 ---
 
