@@ -2,6 +2,8 @@
 
 This is my first HTML/CSS mini-project—a responsive sidebar navigation menu with toggle functionality. Built to practice basic HTML and CSS layout and styling skills.
 
+![screenshot](Screenshot.png)
+
 ---
 
 ## ✨ Features
@@ -22,12 +24,14 @@ Open `index.html` in your browser to see it in action.
 ---
 
 ## 📂 Project Structure
-
+<pre>```
 CSS Mini-Project-1/
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS styles
-└── photo.jpg # Background image
+├── photo.jpg # Background image
+└── Screenshot.png # Screenshot image
+```</pre>
 
 ---
 
