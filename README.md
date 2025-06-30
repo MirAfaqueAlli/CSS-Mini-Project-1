@@ -2,8 +2,6 @@
 
 This is my first HTML/CSS mini-project—a responsive sidebar navigation menu with toggle functionality. Built to practice basic HTML and CSS layout and styling skills.
 
-![screenshot](photo.jpg)
-
 ---
 
 ## ✨ Features
@@ -31,9 +29,6 @@ CSS Mini-Project-1/
 ├── style.css # CSS styles
 └── photo.jpg # Background image
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ How to Use
@@ -41,14 +36,8 @@ Copy code
 1. Clone this repo:
 git clone https://github.com/MirAfaqueAlli/CSS-Mini-Project-1.git
 
-markdown
-Copy code
-
 2. Open the folder:
 cd CSS-Mini-Project-1
-
-yaml
-Copy code
 
 3. Launch the `index.html` file in your browser.
 
@@ -72,20 +61,12 @@ Copy code
 
 ---
 
-## 📸 Screenshots
-
-*(Add more screenshots if you want!)*
-
-![screenshot](photo.jpg)
-
----
-
 ## ❤️ Author
 
 **Mir Afaque Alli**
 
 - [GitHub](https://github.com/MirAfaqueAlli)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(update this if you want)*
+- [LinkedIn](https://www.linkedin.com/in/mir-afaque-alli) 
 
 ---
 
